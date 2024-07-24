@@ -1,0 +1,15 @@
+{
+    "name": "julio/untagonline-backend",
+    "description": "\"Server-side components and services for Untagonline\"",
+    "autoload": {
+        "psr-4": {
+            "Julio\\UntagonlineBackend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio"
+        }
+    ],
+    "require": {}
+}
